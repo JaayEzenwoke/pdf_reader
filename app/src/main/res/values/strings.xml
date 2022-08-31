@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DocReader</string>
+    <string name="allDocs">All</string>
+    <string name="recent">Recent</string>
+    <string name="favourite">Favourite</string>
+    <string name="newPdf">Create PDF</string>
+    <string name="search">Search</string>
+</resources>

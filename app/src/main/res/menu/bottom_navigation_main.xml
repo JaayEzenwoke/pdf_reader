@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/recentPDFs"
+        android:enabled="true"
+        android:icon="@drawable/ic_recent"
+        android:title="@string/recent"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/allPDFs"
+        android:enabled="true"
+        android:icon="@drawable/ic_allDocs"
+        android:title="@string/allDocs"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/favouritePDFs"
+        android:enabled="true"
+        android:icon="@drawable/ic_favourite"
+        android:title="@string/favourite"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/newPDFs"
+        android:enabled="true"
+        android:icon="@drawable/ic_new_box"
+        android:title="@string/newPdf"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/searchPDFs"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"
+        app:showAsAction="always" />
+    0
+</menu>
